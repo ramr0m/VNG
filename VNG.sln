@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNG", "VNG\VNG.csproj", "{217BB595-7185-4DA6-B2E0-A360D6F80890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVngInput", "IVngInput\IVngInput.csproj", "{694C8C7A-0A2D-4675-B776-9A128415411B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVngOutput", "IVngOutput\IVngOutput.csproj", "{0B7203D3-D4C4-4ED8-9115-C65F901311A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217BB595-7185-4DA6-B2E0-A360D6F80890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217BB595-7185-4DA6-B2E0-A360D6F80890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217BB595-7185-4DA6-B2E0-A360D6F80890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217BB595-7185-4DA6-B2E0-A360D6F80890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694C8C7A-0A2D-4675-B776-9A128415411B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694C8C7A-0A2D-4675-B776-9A128415411B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694C8C7A-0A2D-4675-B776-9A128415411B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694C8C7A-0A2D-4675-B776-9A128415411B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7203D3-D4C4-4ED8-9115-C65F901311A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7203D3-D4C4-4ED8-9115-C65F901311A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7203D3-D4C4-4ED8-9115-C65F901311A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7203D3-D4C4-4ED8-9115-C65F901311A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
